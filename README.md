@@ -1,6 +1,6 @@
 # Heart Disease Prediction Project
 
-![Heart.png](image_URL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAzmm_O-GdtiZ50AtQTaPPKnTjNM93zTbMA&usqp=CAU)
+![Heart.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAzmm_O-GdtiZ50AtQTaPPKnTjNM93zTbMA&usqp=CAU)
 
 ## Problem Statement
 
