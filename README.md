@@ -1,5 +1,7 @@
 # Heart Disease Prediction Project
 
+![Heart.png](image_URL](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYAzmm_O-GdtiZ50AtQTaPPKnTjNM93zTbMA&usqp=CAU)
+
 ## Problem Statement
 
 This project aims to predict heart disease based on various health-related features. The goal is to build a machine learning model that accurately predicts whether a person has heart disease or not, enabling early intervention and healthcare implications.
